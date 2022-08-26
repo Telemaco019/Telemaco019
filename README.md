@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [making AI optimization smooth and easy for everyone](https://github.com/nebuly-ai)
 
-- 📫 How to reach me **m.zanotti019@gmail.com**
+- 📫 How to reach me **m.zanotti@nebuly.ai**
 
 
 <h3 align="left">Languages and Tools:</h3>
